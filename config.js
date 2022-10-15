@@ -67,10 +67,10 @@ global.ppulsa2 = '087841959988' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282398074198'
-global.nomorown = '6287841959988'
-global.namebot = 'Zxyura-Md'
-global.nameown = 'ꪶ𖣂ꫂ𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄ꪶ𖣂ꫂ'
+global.nomorbot = '6285790542593'
+global.nomorown = '6281224303283'
+global.namebot = 'DAMAR-BOT'
+global.nameown = 'DAMAR-XD🔥'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,11 +85,9 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287841959988', 'ꪶ𖣂ꫂ𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄ꪶ𖣂ꫂ', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6287841959988', 'ADISTORE_88', true],
+  ['6282398074198', 'RENATA', true],
+  ['6281224303283', 'DAMAR', true],
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +136,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 zxyura-Md 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ zxyura-Md '
+global.wm = '                「 DAMAR-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DAMAR-BOT-V3  ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ DAMAR-BOT'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ꪶ𖣂ꫂ𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄ꪶ𖣂ꫂ`
+global.titlebot = `⫹⫺ WhatsApp Bot | By DAMAR-XD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 zxyura-Md  あ」'
+global.author = '                「 DAMAR-BOT あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -155,7 +153,7 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/0799966f66c0ea45d451e.jpg'
+global.imagebot = 'https://telegra.ph/file/5c3bb0a00124a4c319bf0.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
@@ -636,8 +634,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'DAMAR-BOT'
+global.stickauth = `By ©DAMAR-XD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
