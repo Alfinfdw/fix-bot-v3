@@ -20,7 +20,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* :ꪶ𖣂ꫂ𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄ꪶ𖣂ꫂ
+${htjava} *💌 Nama* :ADI-STORE-88
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
@@ -41,12 +41,12 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
-	{title: "📱 • Pengembang", rowId: ".whmods2"},
-	{title: "📱 • Creator", rowId: ".whmods3"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
+	{title: "📱 • Nomor Owner", ADI-STORE: ".owner nomor"},
+	{title: "📱 • Nomor Owner V2", DAMAR-XD: ".whmods1"},
+	{title: "📱 • Pengembang", ORANG: ".whmods2"},
+	{title: "📱 • Creator", ADI-STORE: ".whmods3"},
+	{title: "🎨 • Biodata", DAMAR-XD: ".owner bio"},
+	{title: "🌎 • Script", BOT-WA: ".sc"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
